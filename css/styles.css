@@ -16,6 +16,12 @@ img, video {
     display: block;
 }
 
+video{
+    
+    border-radius: 5%;
+    border: solid  #e3a264 ;
+}
+
 /* Style rule for box sizing applies to all elements */
 * {
   box-sizing: border-box;
